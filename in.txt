@@ -1,0 +1,412 @@
+A	Agilent Technologies, Inc.	06/30/2016	0.12	42.26		
+ABB	ABB	07/08/2016	0.76	19.29		
+ABBV	AbbVie	07/13/2016	0.57	58.68		
+ABCB	Ameris Bancorp	06/28/2016	0.05	27.95		
+ABM	ABM Industries Inc	07/05/2016	0.17	35.23		
+ABT	Abbott Laboratories	07/13/2016	0.26	36.95		
+ACRE	Ares Commercial Real Estate Corporation	06/28/2016	0.26	11.95		
+ACU	Acme United Corp	06/29/2016	0.10	18.00		
+ADC	Agree Realty Corp	06/28/2016	0.48	46.69		
+AEO	American Eagle Outfitters	07/01/2016	0.13	15.40		
+AET	Aetna Inc	07/12/2016	0.25	115.56		
+AFSI	AmTrust Financial Services Inc	06/29/2016	0.15	23.67		
+AGNC	American Capital Agency Corp.	06/28/2016	0.20	19.33		
+AGU	AGRIUM INC.	06/28/2016	0.88	88.66		
+AHH	Armada Hoffler Properties Inc	06/27/2016	0.18	13.20		
+AHP	Ashford Hospitality Prime	06/28/2016	0.12	14.32		
+AHT	Ashford Hospitality Trust	06/28/2016	0.12	5.07		
+AI	Arlington Asset Investment Corp	06/28/2016	0.63	13.30		
+AKR	Acadia Realty Trust	06/28/2016	0.25	33.83		
+ALCO	Alico Inc	06/28/2016	0.06	27.90		
+AMNF	Armanino Foods Of Distinction Inc	06/29/2016	0.02	2.17		
+AMTG	Apollo Residential Mortgage Inc	06/28/2016	0.48	13.61		
+ANDE	Andersons Inc	06/29/2016	0.16	33.35		
+ANH	Anworth Mortgage Asset Corp	06/28/2016	0.15	4.63		
+APA	Apache Corporation	07/20/2016	0.25	52.00		
+APD	Air Products	06/29/2016	0.86	134.82		
+APLE	Apple Hospitality REIT Inc	06/29/2016	0.10	17.90		
+APOG	Apogee Enterprises Inc	07/08/2016	0.13	42.05		
+ARE	"Alexandria Real Estate Equities, Inc."	06/28/2016	0.80	99.13		
+ARI	"Apollo Commercial Real Estate Finance, Inc."	06/28/2016	0.46	15.87		
+ATAX	America First Multifamily Investors LP	06/28/2016	0.13	5.46		
+ATNI	ATN International Inc	06/28/2016	0.32	76.25		
+AUY	Yamana Gold Inc	06/28/2016	0.01	5.08		
+AVAL	Grupo Aval Acciones y Valores SA	06/28/2016	0.03	7.67		
+AVB	AvalonBay Communities Inc.	06/28/2016	1.35	174.98		
+AVD	American Vanguard Corp	06/28/2016	0.01	13.91		
+AVH	Avianca Holdings	06/30/2016	0.03	5.96		
+AXP	American Express	06/29/2016	0.29	57.67		
+AXS	Axis Capital Holdings Ltd	06/28/2016	0.35	51.53		
+AYI	Acuity Brands Inc	07/14/2016	0.13	232.92		
+BANF	BancFirst Corp	06/28/2016	0.36	57.13		
+BBGI	Beasley Broadcast Group Inc	06/28/2016	0.05	4.51		
+BBOX	Black Box Corp	06/29/2016	0.12	11.90		
+BBVA	Banco Bilbao Vizcaya Argentaria	07/06/2016	0.09	5.30		
+BCR	CR Bard Inc	07/14/2016	0.26	225.03		
+BCRH	Blue Capital Reinsurance Holdings Ltd	06/28/2016	0.30	17.94		
+BDN	Brandywine Realty Trust	07/01/2016	0.16	15.75		
+BELFB	Bel Fuse Inc	07/13/2016	0.07	17.31		
+BEN	Franklin Resources Inc.	06/28/2016	0.18	30.67		
+BFNC	Bank First National Corp	06/27/2016	0.14	28.00		
+BFS	Saul Centers Inc	07/13/2016	0.47	57.21		
+BGS	B&G Foods Inc	06/28/2016	0.42	47.35		
+BKE	Buckle Inc	07/13/2016	0.25	24.49		
+BKS	Barnes & Noble Inc	07/06/2016	0.15	10.78		
+BKSC	Bank of South Carolina	06/30/2016	0.13	16.05		
+BMO	Bank of Montreal	07/27/2016	0.86	61.35		
+BMY	Bristol-Myers Squibb Co.	06/29/2016	0.38	70.32		
+BNS	Bank of Nova Scotia	06/30/2016	0.72	48.05		
+BOCH	Bank of Commerce Holdings	06/30/2016	0.03	6.39		
+BOOM	Dynamic Materials Corp	06/28/2016	0.02	9.82		
+BRC	Brady Corp. - Cl A	07/06/2016	0.20	29.10		
+BRX	Brixmor Property Group	07/01/2016	0.25	26.31		
+BTLCY	British Land Company PLC	06/29/2016	0.10	7.50		
+BURBY	Burberry Group PLC	07/06/2016	0.39	14.02		
+BWL'A	Bowl America Inc	07/08/2016	0.17	14.29		
+BXMT	Blackstone Mortgage Trust Inc	06/28/2016	0.62	26.74		
+BXP	"Boston Properties, Inc."	06/28/2016	0.65	126.50		
+CAFD	8Point3 Energy Partners LP	06/30/2016	0.23	14.77		
+CAH	Cardinal Health	06/29/2016	0.45	73.69		
+CAT	Caterpillar Inc	07/18/2016	0.77	71.38		
+CB	Chubb Ltd	06/28/2016	0.69	121.83		
+CBL	"CBL & Associates Properties, Inc"	06/28/2016	0.27	9.13		
+CBRL	"Cracker Barrel Old Country Store, Inc."	07/13/2016	1.15	168.23		
+CCJ	Cameco Corporation	06/28/2016	0.10	10.70		
+CFD	Nuveen Diversified Commodity Fund	06/28/2016	0.06	9.65		
+CFI	Culp Inc	06/29/2016	0.07	27.51		
+CGI	Celadon Group Inc	07/06/2016	0.02	8.27		
+CHBH	Croghan Bancshares Inc	07/13/2016	0.35	38.75		
+CHH	Choice Hotels International Inc.	06/29/2016	0.21	44.25		
+CHMI	Cherry Hill Mortgage Investment Corp	06/28/2016	0.49	15.94		
+CHSP	Chesapeake Lodging Trust	06/28/2016	0.40	22.24		
+CIB	Bancolombia	06/30/2016	0.30	33.13		
+CIK	"Credit Suisse Asset Management Income Fund, Inc"	07/08/2016	0.02	2.88		
+CIM	Chimera Investment Corp	06/28/2016	0.48	15.58		
+CIO	City Office REIT Inc	07/05/2016	0.24	12.55		
+CL	Colgate-Palmolive Co	07/20/2016	0.39	69.99		
+CLCGY	Clicks Group Ltd	06/29/2016	0.10	15.20		
+CLDT	Chatham Lodging Trust	06/28/2016	0.11	20.82		
+CLI	Mack-Cali Realty Corporation	07/01/2016	0.15	25.65		
+CLNY	Colony Financial Inc.	06/28/2016	0.40	15.46		
+CLX	Clorox Co.	07/25/2016	0.80	137.03		
+CMC	Commercial Metals	07/05/2016	0.12	15.71		
+CMCSA	Comcast Corp  (Cl. A)	07/01/2016	0.28	62.46		
+CMN	Cantel Medical Corp	07/13/2016	0.06	67.53		
+CMO	Capstead Mortgage Corp	06/28/2016	0.23	9.50		
+CMTL	Comtech Telecommunications Corp	07/14/2016	0.30	11.34		
+CMTV	Community Bancorp	07/13/2016	0.16	14.00		
+CNIG	Corning Natural Gas Corp	06/28/2016	0.15	17.50		
+CNSL	Consolidated Communications Holdings Inc	07/13/2016	0.39	25.20		
+COR	Coresite Realty Corp	06/28/2016	0.53	85.94		
+CPB	Campbell Soup	07/07/2016	0.31	63.57		
+CPGX	Columbia Pipeline Group Inc	07/27/2016	0.14	25.49		
+CPT	Camden Property Trust	06/28/2016	0.75	85.32		
+CRT	Cross Timbers Royalty Trust	06/28/2016	0.06	17.40		
+CSAL	"Communications Sales & Leasing, Inc."	06/28/2016	0.60	26.83		
+CSBB	CSB Bancorp Inc	06/30/2016	0.19	25.25		
+CSCO	Cisco Systems	07/05/2016	0.26	27.31		
+CST	CST Brands Inc	06/28/2016	0.06	41.38		
+CTPTY	CTEEP Companhia de Transmissao de Energia Eletrica Paulista	06/30/2016	0.20	15.55		
+CTPZY	CTEEP Companhia de Transmissao de Energia Eletrica Paulista	06/30/2016	0.20	17.51		
+CTRE	CareTrust REIT Inc	06/28/2016	0.17	13.18		
+CUBE	CubeSmart	06/29/2016	0.21	30.19		
+CVBF	CVB Financial Corp	07/05/2016	0.12	15.31		
+CXW	Corrections Corp of America	06/29/2016	0.54	34.41		
+CY	Cypress Semiconductor Corp	06/28/2016	0.11	9.25		
+CZBT	Citizens Bancorp of Virginia Inc	06/29/2016	0.20	20.60		
+DCT	"DCT Industrial Trust, Inc."	06/29/2016	0.29	45.34		
+DDS	Dillard's	06/28/2016	0.07	58.90		
+DE	Deere & Co	06/28/2016	0.60	80.58		
+DEI	"Douglas Emmett, Inc."	06/28/2016	0.22	33.74		
+DFT	DuPont Fabros Technology Inc	06/29/2016	0.47	45.81		
+DGX	Quest Diagnostics Inc.	07/01/2016	0.40	77.58		
+DIMC	Dimeco Inc	06/28/2016	0.38	39.30		
+DIPGY	Datang International Power Generation Co Ltd	07/01/2016	0.52	5.54		
+DNP	DNP Select Income Fund	06/28/2016	0.07	10.48		
+DOC	Physicians Realty Trust	06/30/2016	0.23	20.92		
+DOW	Dow Chemical	06/28/2016	0.46	49.97		
+DOX	Amdocs Limited	06/28/2016	0.20	54.63		
+DRH	DiamondRock Hospitality Company	06/28/2016	0.13	8.62		
+DVCR	Diversicare Healthcare Services Inc	06/28/2016	0.06	7.75		
+DX	Dynex Capital Inc	07/01/2016	0.21	6.66		
+EARN	Ellington Residential Mortgage REIT	06/28/2016	0.40	12.97		
+EBF	Ennis Inc	07/07/2016	0.18	17.65		
+EDD	Morgan Stanley Emerging Markets Domestic Fund	06/28/2016	0.18	7.49		
+EIX	Edison International	06/28/2016	0.48	76.45		
+EMC	EMC Corporation	06/29/2016	0.12	27.04		
+ENSG	Ensign Group Inc	06/28/2016	0.04	19.51		
+EOG	EOG Resources Inc.	07/13/2016	0.17	78.59		
+EPR	EPR Properties	06/28/2016	0.32	76.55		
+ERIE	Erie Indemnity Co	07/01/2016	0.73	95.47		
+ESE	ESCO Technologies Inc	06/30/2016	0.08	38.83		
+ESS	"Essex Property Trust, Inc."	06/28/2016	1.60	218.55		
+ETH	Ethan Allen Interiors Inc	07/06/2016	0.17	31.35		
+FBNC	First Bancorp	06/28/2016	0.08	17.74		
+FCPT	Four Corners Property Trust Inc	06/28/2016	0.24	19.54		
+FEIC	FEI Company	07/05/2016	0.30	106.33		
+FFMH	First Farmers and Merchants Corp	06/29/2016	0.37	27.50		
+FITB	Fifth Third Bancorp	06/28/2016	0.13	16.26		
+FL	Foot Locker	07/13/2016	0.28	51.79		
+FLIC	First of Long Island Corp	06/30/2016	0.20	28.27		
+FMC	FMC Corporation	06/28/2016	0.17	42.21		
+FNBG	FNB Bancorp	07/27/2016	0.15	28.32		
+FNLC	First Bancorp Inc	07/01/2016	0.23	20.69		
+FPI	Farmland Partners Inc	06/29/2016	0.13	10.88		
+FR	First Industrial Realty Trust Inc	06/28/2016	0.19	26.46		
+FRD	Friedman Industries Inc	07/13/2016	0.01	5.82		
+FSAM	Fifth Street Asset Management Inc	06/28/2016	0.10	4.15		
+FSC	Fifth Street Finance Corp	07/13/2016	0.06	4.75		
+FULT	Fulton Financial Corp	06/29/2016	0.10	12.74		
+GCHOY	Grupo Nutresa SA	06/28/2016	0.01	12.19		
+GD	General Dynamics Corp.	06/29/2016	0.76	133.06		
+GEBHY	Genting Bhd	06/27/2016	0.04	9.79		
+GFED	Guaranty Federal Bancshares Inc	06/30/2016	0.08	15.80		
+GGG	Graco Inc	07/14/2016	0.33	74.97		
+GGP	General Growth Properties	07/13/2016	0.19	28.64		
+GHC	Graham Holdings Co	07/18/2016	1.21	476.01		
+GLT	P H Glatfelter Co	06/29/2016	0.13	18.88		
+GNTX	Gentex Corp	07/05/2016	0.09	14.71		
+GPS	Gap Inc.	07/01/2016	0.23	20.07		
+GPT	Gramercy Property Trust	06/28/2016	0.11	8.66		
+GROW	U.S. Global Investors Inc	07/07/2016	0.00	1.74		
+GSBC	Great Southern Bancorp Inc	06/27/2016	0.22	34.80		
+GVA	Granite Construction Inc	06/28/2016	0.13	41.36		
+HASI	"Hannon Armstrong Sustainable Infrastructure Capital, Inc."	07/01/2016	0.30	20.11		
+HBNC	Horizon Bancorp	07/06/2016	0.15	24.11		
+HCAP	Harvest Capital Credit Corp	07/12/2016	0.11	12.40		
+HCKT	Hackett Group Inc	06/28/2016	0.13	13.40		
+HEI	Heico Corp	06/30/2016	0.08	63.45		
+HFBC	HopFed Bancorp Inc	06/28/2016	0.04	11.66		
+HIFR	"InfraREIT, Inc."	06/28/2016	0.25	16.40		
+HIFS	Hingham Institution For Savings	07/07/2016	0.30	123.70		
+HLS	HealthSouth Corporation	06/29/2016	0.23	37.68		
+HRL	Hormel Foods Corp	07/14/2016	0.15	35.81		
+HRZN	Horizon Technology Finance Corp	07/18/2016	0.12	11.60		
+HST	Host Hotels & Resorts Inc.	06/28/2016	0.20	14.79		
+HT	Hersha Hospitality	06/28/2016	0.28	15.74		
+HTA	Healthcare Trust Of America Inc	06/29/2016	0.30	32.27		
+HUM	Humana Inc	06/28/2016	0.29	176.94		
+IBA	Industrias Bachoco SAB de CV	07/01/2016	0.42	46.04		
+IBDRY	Iberdrola SA	07/05/2016	0.14	24.42		
+IBKC	IBERIABANK Corporation	06/28/2016	0.34	55.62		
+IDCC	InterDigital Inc	07/11/2016	0.20	52.37		
+IEX	IDEX Corp	07/13/2016	0.34	79.29		
+IHC	Independence Holding Co	07/01/2016	0.05	17.10		
+IID	Voya International High Dividend Equity Income Fund	07/01/2016	0.07	6.21		
+INBK	First Internet Bancorp	06/28/2016	0.06	22.42		
+INGR	Ingredion Inc	06/28/2016	0.45	122.14		
+INTU	Intuit Inc.	07/08/2016	0.30	104.18		
+IPAR	Inter Parfums Inc	06/28/2016	0.15	27.59		
+IRT	Independence Realty Trust Inc	06/28/2016	0.06	7.54		
+ISTR	Investar Holding Corp	06/29/2016	0.01	15.65		
+ITW	Illinois Tool Works Inc	06/28/2016	0.55	98.70		
+IVC	Invacare Corp	06/30/2016	0.01	11.25		
+JCAP	Jernigan Capital Inc	06/29/2016	0.35	13.53		
+JMP	JMP Group Inc	06/28/2016	0.03	5.46		
+JOUT	Johnson Outdoors Inc	07/12/2016	0.08	24.75		
+JPM	JPMorgan Chase & Co.	07/01/2016	0.48	57.61		
+JW'A	John Wiley & Sons Inc	07/01/2016	0.31	48.46		
+KAI	Kadant Inc	07/12/2016	0.19	49.56		
+KCAP	KCAP Financial Inc	07/05/2016	0.15	3.64		
+KIM	Kimco Realty Corporation	07/01/2016	0.26	29.99		
+KRC	Kilroy Realty Corporation	06/28/2016	0.38	62.57		
+KRG	Kite Realty Group	07/05/2016	0.29	27.01		
+KS	KapStone Paper and Packaging Corp.	06/28/2016	0.10	12.64		
+KW	"Kennedy-Wilson Holdings, Inc."	06/28/2016	0.14	17.52		
+KWR	Quaker Chemical Corp	07/13/2016	0.35	84.28		
+KYE	Kayne Anderson Energy Total Return Fund	07/06/2016	0.25	10.04		
+LECO	Lincoln Electric Holdings Inc	06/28/2016	0.32	56.47		
+LEN	Lennar Corporation	07/06/2016	0.04	43.74		
+LHO	LaSalle Hotel Properties	06/28/2016	0.45	22.02		
+LII	Lennox International Inc	06/28/2016	0.43	137.03		
+LMNR	Limoneira Co	06/30/2016	0.05	16.78		
+LNC	Lincoln National Corp	07/07/2016	0.25	35.50		
+LOAN	Manhattan Bridge Capital Inc	07/06/2016	0.09	5.05		
+LOW	"Lowe's Companies, Inc."	07/18/2016	0.35	76.31		
+LPSB	Laporte Bancorp Inc	07/05/2016	0.04	16.00		
+LPT	Liberty Property Trust	06/29/2016	0.48	37.79		
+LXP	Lexington Realty Trust	06/28/2016	0.17	9.75		
+MAA	Mid-America Apartment Communities Inc	07/13/2016	0.82	102.91		
+MAIN	Main Street Capital Corp	06/29/2016	0.18	31.88		
+MAS	Masco Corp	07/06/2016	0.10	29.28		
+MDLZ	Mondelez International	06/28/2016	0.17	41.38		
+MDT	"Medtronic, Inc"	07/06/2016	0.43	82.38		
+MEI	Methode Electronics Inc	07/13/2016	0.09	30.64		
+MELI	Mercadolibre Inc	06/28/2016	0.15	126.88		
+MGP	MGM Growth Properties LLC	06/28/2016	0.26	24.68		
+MGRC	McGrath RentCorp	07/13/2016	0.26	29.17		
+MMC	Marsh & McLennan Cos	07/07/2016	0.34	63.73		
+MN	"Manning & Napier, Inc."	07/13/2016	0.16	9.60		
+MON	Monsanto Company	07/06/2016	0.54	99.98		
+MORE	Monogram Residential Trust Inc	06/28/2016	0.08	9.87		
+MORN	Morningstar Inc	07/06/2016	0.22	76.72		
+MPWR	Monolithic Power Systems Inc	06/28/2016	0.20	63.30		
+MSM	MSC Industrial Direct Co Inc	07/08/2016	0.43	69.38		
+MTGE	American Capital Mortgage Investment Corp	06/28/2016	0.40	15.62		
+MTR	Mesa Royalty Trust	06/28/2016	0.04	10.00		
+MYCC	ClubCorp	06/29/2016	0.13	11.75		
+NAUH	National American University Holdings Inc	06/28/2016	0.05	2.10		
+NDRO	Enduro Royalty Trust	06/28/2016	0.01	3.50		
+NECB	Northeast Community Bancorp Inc	07/01/2016	0.03	6.16		
+NFG	National Fuel Gas Co	06/28/2016	0.41	55.31		
+NGHC	National General Holdings Corp	06/29/2016	0.03	20.17		
+NHC	National Healthcare Corp	06/28/2016	0.45	63.52		
+NHI	"National Health Investors, Inc."	06/28/2016	0.90	73.88		
+NI	NiSource Inc	07/27/2016	0.17	25.41		
+NLY	Annaly Capital  Management	06/28/2016	0.30	10.95		
+NODB	North Dallas Bank & Trust Co	07/06/2016	0.17	61.00		
+NRCIB	National Research Corp	06/28/2016	0.48	33.71		
+NSARO	NSTAR Electric Co	07/06/2016	1.20	101.00		
+NTAP	NetApp Inc.	07/14/2016	0.19	22.96		
+NUE	Nucor	06/28/2016	0.38	46.31		
+NWFL	Norwood Financial Corp	07/13/2016	0.31	27.56		
+O	Realty Income	06/29/2016	0.20	66.97		
+OAKS	Five Oaks Investment Corp	07/13/2016	0.06	5.26		
+OC	Owens Corning	07/14/2016	0.18	48.62		
+OFC	Corporate Office Properties Trust	06/28/2016	0.28	28.36		
+OFG	OFG Bancorp	06/28/2016	0.06	7.67		
+OGE	OGE Energy Corp	07/06/2016	0.28	31.07		
+OHAI	OHA Investment Corp	06/28/2016	0.06	2.12		
+ORCL	Oracle Corp	07/01/2016	0.15	38.48		
+OXM	Oxford Industries Inc	07/13/2016	0.27	53.67		
+PBT	Permian Basin Royalty Trust	06/28/2016	0.03	7.09		
+PCG	PG&E Corporation	06/28/2016	0.49	63.17		
+PDCO	Patterson Cos Inc	07/13/2016	0.24	45.67		
+PEB	Pebblebrook Hotel Trust	06/28/2016	0.38	24.41		
+PEGA	Pegasystems Inc	06/29/2016	0.03	25.87		
+PEGI	Pattern Energy	06/28/2016	0.39	21.43		
+PFBC	Preferred Bank	07/05/2016	0.15	27.28		
+PGRE	Paramount Group	06/28/2016	0.10	15.34		
+PKBK	Parke Bancorp Inc	07/13/2016	0.08	12.84		
+PKE	Park Electrochemical Corp	06/30/2016	0.10	15.35		
+PKI	"PerkinElmer, Inc."	07/13/2016	0.07	50.44		
+PLPC	Preformed Line Products Co	06/29/2016	0.20	40.69		
+PNGAY	Ping An Insurance Group Co of China Ltd	06/30/2016	0.11	8.50		
+PNMXO	Public Service of New Mexico Co	06/29/2016	1.15	98.60		
+PNR	Pentair plc	07/20/2016	0.34	56.28		
+POT	Potash Corporation of Saskatchewan Inc.	07/08/2016	0.25	15.80		
+PPS	"Post Properties, Inc."	06/28/2016	0.47	58.86		
+PRIM	Primoris Services Corp	06/28/2016	0.06	17.96		
+PSBQ	PSB Holdings Inc	07/07/2016	0.45	45.03		
+PSEC	Prospect Capital Corp	06/28/2016	0.08	7.63		
+RAFI	Regency Affiliates Inc	06/28/2016	0.06	9.59		
+RAS	RAIT Financial Trust	07/06/2016	0.09	2.95		
+RAVN	Raven Industries Inc	07/06/2016	0.13	18.21		
+RBC	Regal Beloit Corp	06/29/2016	0.24	51.81		
+RCII	Rent-A-Center Inc	06/30/2016	0.08	11.41		
+RESI	Altisource Residential Corp	06/28/2016	0.15	8.65		
+REXR	REXR	06/28/2016	0.14	20.43		
+RFIL	RF Industries Ltd	06/28/2016	0.02	2.12		
+RGLD	Royal Gold Inc	06/29/2016	0.23	69.15		
+RHP	Ryman Hospitality Properties	06/28/2016	0.75	47.51		
+RJF	Raymond James Financial Inc	06/29/2016	0.20	47.01		
+RL	Polo Ralph Lauren	06/29/2016	0.50	87.38		
+RLJ	RLJ Lodging Trust	06/28/2016	0.33	20.00		
+ROP	Roper Technologies Inc	07/06/2016	0.30	164.77		
+RSG	Republic Services	06/29/2016	0.30	49.39		
+RSO	Resource Capital Corp	06/28/2016	0.42	12.69		
+RTN	Raytheon Co.	07/01/2016	0.73	134.80		
+RY	Royal Bank of Canada	07/22/2016	0.81	57.50		
+SAIC	Science Applications International Corp	07/13/2016	0.31	55.03		
+SBY	Silver Bay Realty Trust Corp	06/29/2016	0.13	16.21		
+SCS	Steelcase Inc	06/30/2016	0.12	13.22		
+SCVL	Shoe Carnival Inc	06/30/2016	0.07	24.27		
+SFBS	ServisFirst Bancshares Inc	07/06/2016	0.08	45.66		
+SFR	Colony Starwood Homes	06/28/2016	0.22	29.43		
+SHLM	A Schulman Inc	07/13/2016	0.21	21.72		
+SHO	Sunstone Hotel Investors	06/28/2016	0.05	11.37		
+SIG	Signet Jewelers Limited	07/27/2016	0.26	79.26		
+SJR	Shaw Communications Inc	07/13/2016	0.10	18.96		
+SJT	San Juan Basin Royalty Trust	06/28/2016	0.00	6.91		
+SKYW	SkyWest	06/28/2016	0.05	24.43		
+SLG	SL Green Realty Corp.	06/28/2016	0.72	97.91		
+SMRT	Stein Mart Inc	06/28/2016	0.08	7.34		
+SNC	State National Companies Inc	06/30/2016	0.06	9.93		
+SNHY	Sun Hydraulics Corp	06/28/2016	0.09	28.20		
+SNX	SYNNEX Corp	07/13/2016	0.20	90.32		
+SRC	Spirit Realty Capital	06/28/2016	0.18	12.21		
+SRE	Sempra Energy	06/28/2016	0.76	111.39		
+SRG	Seritage Growth Properties	06/28/2016	0.25	46.82		
+SSD	Simpson Manufacturing Co Inc	07/05/2016	0.18	37.79		
+STAG	STAG Industrial Inc.	06/28/2016	0.12	22.72		
+STJ	St Jude Medical Inc	06/28/2016	0.31	76.12		
+STLD	Steel Dynamics	06/28/2016	0.14	23.20		
+STOR	Store Capital Corp	06/28/2016	0.27	27.85		
+STT	State Street Corp.	06/29/2016	0.34	50.79		
+STWD	"Starwood Property Trust, Inc."	06/28/2016	0.48	20.08		
+SUI	Sun Communities Inc.	06/28/2016	0.65	73.57		
+SUP	Superior Industries International Inc	06/30/2016	0.18	25.19		
+SYK	Stryker Corp	06/28/2016	0.38	114.78		
+SYY	Sysco Corporation	06/29/2016	0.31	49.72		
+T	AT&T Inc.	07/06/2016	0.48	42.03		
+TAX	Liberty Tax Inc	07/08/2016	0.16	12.40		
+TBLMY	Tiger Brands Ltd	06/29/2016	0.23	23.65		
+TCFC	Community Financial Corp	07/05/2016	0.10	22.07		
+TGLVY	Top Glove Corporation Bhd	06/28/2016	0.06	4.55		
+TIER	TIER REIT Inc	06/28/2016	0.18	14.41		
+TLKGY	Telkom SA SOC Ltd	06/29/2016	0.73	16.81		
+TMK	Torchmark Corp	06/29/2016	0.14	57.68		
+TOWN	Towne Bank	06/28/2016	0.13	20.32		
+TRN	Trinity Industries Inc	07/13/2016	0.11	17.28		
+TRNO	Terreno Realty Corp	07/05/2016	0.18	25.14		
+TSE	Trinseo S.A.	07/01/2016	0.30	40.20		
+TSLX	"TPG Specialty Lending, Inc."	06/28/2016	0.39	16.50		
+TSM	Taiwan Semiconductor Manufacturing Co.	06/27/2016	0.93	24.90		
+TWI	Titan International Inc	06/28/2016	0.01	5.84		
+TWO	Two Harbors Investment Corp.	06/28/2016	0.23	8.49		
+TYC	Tyco International PLC	07/20/2016	0.21	40.22		
+TYPE	Monotype Imaging Holdings Inc	06/29/2016	0.11	23.20		
+UBA	Urstadt Biddle Properties Inc	06/29/2016	0.26	23.88		
+UBMPY	UBM PLC	06/29/2016	0.81	6.96		
+UDR	"UDR, Inc."	07/07/2016	0.30	34.85		
+UFS	Domtar Corp.	06/30/2016	0.42	33.73		
+UMC	United Microelectronics Corp.	07/12/2016	0.09	1.96		
+UMPQ	Umpqua Holdings Corp	06/28/2016	0.16	14.72		
+UNRDY	Unibail Rodamco SE	06/30/2016	0.55	25.07		
+USB	U.S. Bancorp	06/28/2016	0.26	38.69		
+UVV	Universal Corp	07/07/2016	0.53	55.19		
+VABK	Virginia National Bankshares Corp	06/28/2016	0.13	24.11		
+VER	VEREIT	06/28/2016	0.14	9.77		
+VLGEA	Village Super Market Inc	07/05/2016	0.25	29.12		
+VRTS	Virtus Investment Partners	07/27/2016	0.45	73.49		
+VSEC	VSE Corp	07/18/2016	0.12	65.16		
+VTKLY	VTech Holdings Ltd	07/15/2016	0.25	10.20		
+VZ	Verizon Communications	07/06/2016	0.57	54.74		
+WAKE	Wake Forest Bancshares Inc	06/30/2016	0.06	16.25		
+WASH	Washington Trust Bancorp Inc	06/29/2016	0.36	36.53		
+WDC	Western Digital Corporation	06/29/2016	0.50	42.18		
+WDFC	WD-40 Co	07/13/2016	0.42	112.04		
+WDR	Waddell & Reed Financial Inc.	07/07/2016	0.46	16.35		
+WFM	"Whole Foods Market, Inc."	06/29/2016	0.14	31.25		
+WGL	"WGL Holdings, Inc."	07/06/2016	0.49	68.97		
+WGO	Winnebago Industries Inc	07/11/2016	0.10	21.87		
+WHLR	Wheeler Real Estate Investment Trust Inc	06/28/2016	0.02	1.52		
+WIN	Windstream Holdings Inc	06/28/2016	0.15	8.44		
+WIRE	Encore Wire Corp	06/29/2016	0.02	36.23		
+WLTW	Willis Towers Watson PLC	06/28/2016	0.48	113.40		
+WMC	Western Asset Mortgage Corp	06/30/2016	0.31	9.43		
+WPC	WP Carey	06/28/2016	0.98	67.98		
+WSBF	Waterstone Financial Inc	07/08/2016	0.08	14.87		
+WSM	"Williams-Sonoma, Inc."	07/20/2016	0.37	49.56		
+WSR	Whitestone REIT	06/29/2016	0.10	14.72		
+WWW	Wolverine World Wide Inc	06/29/2016	0.06	18.98		
+XHR	Xenia Hotels & Resorts Inc	06/28/2016	0.28	15.85		
+XRX	Xerox Corp	06/28/2016	0.08	8.96		
+YORW	York Water Co	06/28/2016	0.16	31.28		
+YUM	"Yum! Brands, Inc."	07/13/2016	0.46	79.33		
+ZAIS	ZAIS Group Holdings Inc	06/28/2016	0.40	2.87		
+ZTS	Zoetis Inc.	06/28/2016	0.10	45.42		
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
