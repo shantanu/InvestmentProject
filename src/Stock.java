@@ -6,25 +6,29 @@ import java.time.*;
 public class Stock {
 	public String symbol;
 	public String name;
-	public LocalDate dividendDate;
+	public Date dividendDate;
 	public double pastIncome;
 	public double costPerStock;
 	
-	public LocalDate buyDate;
-	public LocalDate sellDate;
-	public LocalDate moneyBankDate;
+	public Date buyDate;
+	public Date sellDate;
+	public Date moneyBankDate;
 	
 	public int unitsPerTenK;
 	public double profit;
 	
 	
-	public Stock (String s, String n, LocalDate date, double p, double c) {
+	public Stock (String s, String n, Date date, double p, double c) {
 		symbol = s;
 		name = n;
 		dividendDate = date;
 		pastIncome = p;
 		costPerStock = c;
 		
+		
+		buyDate = (Date) date.clone();
+		sellDate = (Date) date.clone();
+		moneyBankDate = (Date) date.clone();
 		runCalc();
 
 	}
@@ -34,14 +38,14 @@ public class Stock {
 		profit = pastIncome*unitsPerTenK;
 		
 		//buy date is 3 days previous to dividend date
-		buyDate = dividendDate.minusDays(3);
+		buyDate = nDaysBefore(3, buyDate);
 		
 		
 		//sell date is 1 day after dividend date
-		sellDate = getNextWeekday(dividendDate);
+		sellDate = getNextWeekday(sellDate);
 		
 		//money date is 3 days after sell date 
-		moneyBankDate = nDaysAfter(4, dividendDate);
+		moneyBankDate = nDaysAfter(4, moneyBankDate);
 		
 	}
 	
@@ -53,7 +57,7 @@ public class Stock {
 	
 	
 	public static Date nDaysAfter (int n, Date toFindAfter) {
-		Date toChange = new Date (toFindAfter.getDate());
+		Date toChange = toFindAfter;
 		for (int i = 0; i < n; i++) {
 			toChange = getNextWeekday(toChange);
 		}
@@ -61,7 +65,7 @@ public class Stock {
 	}
 	
 	public static Date nDaysBefore (int n, Date toFindBefore) {
-		Date toChange = new Date(toFindBefore.getDate());
+		Date toChange = toFindBefore;
 		for (int i = 0; i < n; i++) {
 			toChange = getPreviousWeekday(toChange);
 		}
