@@ -1,0 +1,292 @@
+		Buy Date: Wed Jun 22 00:00:00 EDT 2016
+		Sell Date: Tue Jun 28 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 01 00:00:00 EDT 2016
+
+
+		Buy Date: Mon Jul 04 00:00:00 EDT 2016
+		Sell Date: Fri Jul 08 00:00:00 EDT 2016
+		Money in Da Bank: Wed Jul 13 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 728.36
+Percentage Profit: 7.28%
+
+
+		Buy Date: Thu Jun 23 00:00:00 EDT 2016
+		Sell Date: Wed Jun 29 00:00:00 EDT 2016
+		Money in Da Bank: Mon Jul 04 00:00:00 EDT 2016
+
+
+		Buy Date: Tue Jul 05 00:00:00 EDT 2016
+		Sell Date: Mon Jul 11 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 14 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 1861.65
+Percentage Profit: 18.62%
+
+
+		Buy Date: Fri Jun 24 00:00:00 EDT 2016
+		Sell Date: Thu Jun 30 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 05 00:00:00 EDT 2016
+
+
+		Buy Date: Wed Jul 06 00:00:00 EDT 2016
+		Sell Date: Tue Jul 12 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 15 00:00:00 EDT 2016
+
+
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 1348.99
+Percentage Profit: 13.49%
+
+
+		Buy Date: Mon Jun 27 00:00:00 EDT 2016
+		Sell Date: Fri Jul 01 00:00:00 EDT 2016
+		Money in Da Bank: Wed Jul 06 00:00:00 EDT 2016
+
+
+		Buy Date: Thu Jul 07 00:00:00 EDT 2016
+		Sell Date: Wed Jul 13 00:00:00 EDT 2016
+		Money in Da Bank: Mon Jul 18 00:00:00 EDT 2016
+
+
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 927.91
+Percentage Profit: 9.28%
+
+
+		Buy Date: Tue Jun 28 00:00:00 EDT 2016
+		Sell Date: Mon Jul 04 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 07 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 08 00:00:00 EDT 2016
+		Sell Date: Thu Jul 14 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 19 00:00:00 EDT 2016
+
+
+		Buy Date: Wed Jul 20 00:00:00 EDT 2016
+		Sell Date: Tue Jul 26 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 29 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 1162.76
+Percentage Profit: 11.63%
+
+
+		Buy Date: Thu Jun 30 00:00:00 EDT 2016
+		Sell Date: Wed Jul 06 00:00:00 EDT 2016
+		Money in Da Bank: Mon Jul 11 00:00:00 EDT 2016
+
+
+		Buy Date: Tue Jul 12 00:00:00 EDT 2016
+		Sell Date: Mon Jul 18 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 21 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 22 00:00:00 EDT 2016
+		Sell Date: Thu Jul 28 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 02 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 796.37
+Percentage Profit: 7.96%
+
+
+		Buy Date: Fri Jul 01 00:00:00 EDT 2016
+		Sell Date: Thu Jul 07 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 12 00:00:00 EDT 2016
+
+
+		Buy Date: Wed Jul 13 00:00:00 EDT 2016
+		Sell Date: Tue Jul 19 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 22 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 412.81
+Percentage Profit: 4.13%
+
+
+		Buy Date: Mon Jul 04 00:00:00 EDT 2016
+		Sell Date: Fri Jul 08 00:00:00 EDT 2016
+		Money in Da Bank: Wed Jul 13 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 355.43
+Percentage Profit: 3.55%
+
+
+		Buy Date: Tue Jul 05 00:00:00 EDT 2016
+		Sell Date: Mon Jul 11 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 14 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 468.05
+Percentage Profit: 4.68%
+
+
+		Buy Date: Wed Jul 06 00:00:00 EDT 2016
+		Sell Date: Tue Jul 12 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 15 00:00:00 EDT 2016
+
+
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 185.83
+Percentage Profit: 1.86%
+
+
+		Buy Date: Thu Jul 07 00:00:00 EDT 2016
+		Sell Date: Wed Jul 13 00:00:00 EDT 2016
+		Money in Da Bank: Mon Jul 18 00:00:00 EDT 2016
+
+
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 599.31
+Percentage Profit: 5.99%
+
+
+		Buy Date: Fri Jul 08 00:00:00 EDT 2016
+		Sell Date: Thu Jul 14 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 19 00:00:00 EDT 2016
+
+
+		Buy Date: Wed Jul 20 00:00:00 EDT 2016
+		Sell Date: Tue Jul 26 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 29 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 224.16
+Percentage Profit: 2.24%
+
+
+		Buy Date: Mon Jul 11 00:00:00 EDT 2016
+		Sell Date: Fri Jul 15 00:00:00 EDT 2016
+		Money in Da Bank: Wed Jul 20 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 22 00:00:00 EDT 2016
+		Sell Date: Thu Jul 28 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 02 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 403.62
+Percentage Profit: 4.04%
+
+
+		Buy Date: Tue Jul 12 00:00:00 EDT 2016
+		Sell Date: Mon Jul 18 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 21 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 22 00:00:00 EDT 2016
+		Sell Date: Thu Jul 28 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 02 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 384.32
+Percentage Profit: 3.84%
+
+
+		Buy Date: Wed Jul 13 00:00:00 EDT 2016
+		Sell Date: Tue Jul 19 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 22 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 107.8
+Percentage Profit: 1.08%
+
+
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 74.37
+Percentage Profit: 0.74%
+
+
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 140.13
+Percentage Profit: 1.4%
+
+
+		Buy Date: Wed Jul 20 00:00:00 EDT 2016
+		Sell Date: Tue Jul 26 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 29 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 57.6
+Percentage Profit: 0.58%
+
+
+		Buy Date: Fri Jul 22 00:00:00 EDT 2016
+		Sell Date: Thu Jul 28 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 02 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 139.32
+Percentage Profit: 1.39%
+
+
+Suggested Investment Strategy: #2
+Maximum Possible Percentage Profit: 18.62%

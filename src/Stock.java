@@ -52,7 +52,7 @@ public class Stock {
 	public void print() {
 		DecimalFormat df = new DecimalFormat("#.##");
 		String profitString = df.format(profit);
-		System.out.println(symbol + "\t" + name + "\t" + dividendDate + "\t" + pastIncome + "\t" + costPerStock + "\t" + unitsPerTenK + "\t" + profitString + "\t" + buyDate + "\t" + sellDate);
+		System.out.println(symbol + "\t" + name + "\t" + dividendDate + "\t" + pastIncome + "\t" + costPerStock + "\t" + unitsPerTenK + "\t" + profitString);
 	}
 	
 	

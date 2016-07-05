@@ -1,0 +1,195 @@
+		Buy Date: Wed Jun 22 00:00:00 EDT 2016
+		Sell Date: Tue Jun 28 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 01 00:00:00 EDT 2016
+
+
+		Buy Date: Mon Jul 04 00:00:00 EDT 2016
+		Sell Date: Fri Jul 08 00:00:00 EDT 2016
+		Money in Da Bank: Wed Jul 13 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+		Buy Date: Thu Jun 23 00:00:00 EDT 2016
+		Sell Date: Wed Jun 29 00:00:00 EDT 2016
+		Money in Da Bank: Mon Jul 04 00:00:00 EDT 2016
+
+
+		Buy Date: Tue Jul 05 00:00:00 EDT 2016
+		Sell Date: Mon Jul 11 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 14 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jun 24 00:00:00 EDT 2016
+		Sell Date: Thu Jun 30 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 05 00:00:00 EDT 2016
+
+
+		Buy Date: Wed Jul 06 00:00:00 EDT 2016
+		Sell Date: Tue Jul 12 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 15 00:00:00 EDT 2016
+
+
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+		Buy Date: Mon Jun 27 00:00:00 EDT 2016
+		Sell Date: Fri Jul 01 00:00:00 EDT 2016
+		Money in Da Bank: Wed Jul 06 00:00:00 EDT 2016
+
+
+		Buy Date: Thu Jul 07 00:00:00 EDT 2016
+		Sell Date: Wed Jul 13 00:00:00 EDT 2016
+		Money in Da Bank: Mon Jul 18 00:00:00 EDT 2016
+
+
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+		Buy Date: Tue Jun 28 00:00:00 EDT 2016
+		Sell Date: Mon Jul 04 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 07 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 08 00:00:00 EDT 2016
+		Sell Date: Thu Jul 14 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 19 00:00:00 EDT 2016
+
+
+		Buy Date: Wed Jul 20 00:00:00 EDT 2016
+		Sell Date: Tue Jul 26 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 29 00:00:00 EDT 2016
+
+
+		Buy Date: Thu Jun 30 00:00:00 EDT 2016
+		Sell Date: Wed Jul 06 00:00:00 EDT 2016
+		Money in Da Bank: Mon Jul 11 00:00:00 EDT 2016
+
+
+		Buy Date: Tue Jul 12 00:00:00 EDT 2016
+		Sell Date: Mon Jul 18 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 21 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 22 00:00:00 EDT 2016
+		Sell Date: Thu Jul 28 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 02 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 01 00:00:00 EDT 2016
+		Sell Date: Thu Jul 07 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 12 00:00:00 EDT 2016
+
+
+		Buy Date: Wed Jul 13 00:00:00 EDT 2016
+		Sell Date: Tue Jul 19 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 22 00:00:00 EDT 2016
+
+
+		Buy Date: Mon Jul 04 00:00:00 EDT 2016
+		Sell Date: Fri Jul 08 00:00:00 EDT 2016
+		Money in Da Bank: Wed Jul 13 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+		Buy Date: Tue Jul 05 00:00:00 EDT 2016
+		Sell Date: Mon Jul 11 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 14 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+		Buy Date: Wed Jul 06 00:00:00 EDT 2016
+		Sell Date: Tue Jul 12 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 15 00:00:00 EDT 2016
+
+
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+		Buy Date: Thu Jul 07 00:00:00 EDT 2016
+		Sell Date: Wed Jul 13 00:00:00 EDT 2016
+		Money in Da Bank: Mon Jul 18 00:00:00 EDT 2016
+
+
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 08 00:00:00 EDT 2016
+		Sell Date: Thu Jul 14 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 19 00:00:00 EDT 2016
+
+
+		Buy Date: Wed Jul 20 00:00:00 EDT 2016
+		Sell Date: Tue Jul 26 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 29 00:00:00 EDT 2016
+
+
+		Buy Date: Mon Jul 11 00:00:00 EDT 2016
+		Sell Date: Fri Jul 15 00:00:00 EDT 2016
+		Money in Da Bank: Wed Jul 20 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 22 00:00:00 EDT 2016
+		Sell Date: Thu Jul 28 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 02 00:00:00 EDT 2016
+
+
+		Buy Date: Tue Jul 12 00:00:00 EDT 2016
+		Sell Date: Mon Jul 18 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 21 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 22 00:00:00 EDT 2016
+		Sell Date: Thu Jul 28 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 02 00:00:00 EDT 2016
+
+
+		Buy Date: Wed Jul 13 00:00:00 EDT 2016
+		Sell Date: Tue Jul 19 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 22 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+		Buy Date: Wed Jul 20 00:00:00 EDT 2016
+		Sell Date: Tue Jul 26 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 29 00:00:00 EDT 2016
+
+
+		Buy Date: Fri Jul 22 00:00:00 EDT 2016
+		Sell Date: Thu Jul 28 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 02 00:00:00 EDT 2016
+
+
