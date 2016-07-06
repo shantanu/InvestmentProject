@@ -1,0 +1,431 @@
+Investing 10k in each:
+	Number of Stocks: 24
+	Total Investment Needed: 240000.0
+	Total Dividend Earned: 10278.57
+	Percentage Profit: 4.28
+
+
+
+
+Strategy #1
+JEXYY	Jiangsu Expressway Co Ltd	Tue Jul 05 00:00:00 EDT 2016	1.22	27.11	368	448.96
+		Buy Date: Thu Jun 30 00:00:00 EDT 2016
+		Sell Date: Wed Jul 06 00:00:00 EDT 2016
+		Money in Da Bank: Mon Jul 11 00:00:00 EDT 2016
+
+
+ARI	"Apollo Commercial Real Estate Finance, Inc."	Fri Jul 15 00:00:00 EDT 2016	0.46	15.85	630	289.8
+		Buy Date: Tue Jul 12 00:00:00 EDT 2016
+		Sell Date: Mon Jul 18 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 21 00:00:00 EDT 2016
+
+
+EARN	Ellington Residential Mortgage REIT	Wed Jul 27 00:00:00 EDT 2016	0.4	13.06	765	306
+		Buy Date: Fri Jul 22 00:00:00 EDT 2016
+		Sell Date: Thu Jul 28 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 02 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 1044.76
+Percentage Profit: 10.45%
+
+
+Strategy #2
+AINV	Apollo Investment Corporation	Wed Jul 06 00:00:00 EDT 2016	0.2	5.53	1808	361.6
+		Buy Date: Fri Jul 01 00:00:00 EDT 2016
+		Sell Date: Thu Jul 07 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 12 00:00:00 EDT 2016
+
+
+UBMPD	UBM PLC	Mon Jul 18 00:00:00 EDT 2016	0.91	6.15	1626	1479.66
+		Buy Date: Wed Jul 13 00:00:00 EDT 2016
+		Sell Date: Tue Jul 19 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 22 00:00:00 EDT 2016
+
+
+SPIL	Siliconware Precision	Thu Jul 28 00:00:00 EDT 2016	0.58	7.39	1353	784.74
+		Buy Date: Mon Jul 25 00:00:00 EDT 2016
+		Sell Date: Fri Jul 29 00:00:00 EDT 2016
+		Money in Da Bank: Wed Aug 03 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 2626
+Percentage Profit: 26.26%
+
+
+Strategy #3
+TEZNY	Terna Rete Elettrica Nazionale SpA	Thu Jul 07 00:00:00 EDT 2016	0.44	16.29	613	269.72
+		Buy Date: Mon Jul 04 00:00:00 EDT 2016
+		Sell Date: Fri Jul 08 00:00:00 EDT 2016
+		Money in Da Bank: Wed Jul 13 00:00:00 EDT 2016
+
+
+SUP	Superior Industries International Inc	Tue Jul 19 00:00:00 EDT 2016	0.18	27.09	369	66.42
+		Buy Date: Thu Jul 14 00:00:00 EDT 2016
+		Sell Date: Wed Jul 20 00:00:00 EDT 2016
+		Money in Da Bank: Mon Jul 25 00:00:00 EDT 2016
+
+
+AI	Arlington Asset Investment Corp	Fri Jul 29 00:00:00 EDT 2016	0.63	12.74	784	493.92
+		Buy Date: Tue Jul 26 00:00:00 EDT 2016
+		Sell Date: Mon Aug 01 00:00:00 EDT 2016
+		Money in Da Bank: Thu Aug 04 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 830.06
+Percentage Profit: 8.3%
+
+
+Strategy #4
+JBSAY	Jbs SA	Fri Jul 08 00:00:00 EDT 2016	0.24	5.81	1721	413.04
+		Buy Date: Tue Jul 05 00:00:00 EDT 2016
+		Sell Date: Mon Jul 11 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 14 00:00:00 EDT 2016
+
+
+ABB	ABB	Wed Jul 20 00:00:00 EDT 2016	0.76	19.31	517	392.92
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+WHLR	Wheeler Real Estate Investment Trust Inc	Sun Jul 31 00:00:00 EDT 2016	0.02	1.56	6410	128.2
+		Buy Date: Thu Jul 28 00:00:00 EDT 2016
+		Sell Date: Mon Aug 01 00:00:00 EDT 2016
+		Money in Da Bank: Thu Aug 04 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 934.16
+Percentage Profit: 9.34%
+
+
+Strategy #5
+CESDY	CESP Companhia Energetica de Sao Paulo	Mon Jul 11 00:00:00 EDT 2016	0.57	3.88	2577	1468.89
+		Buy Date: Wed Jul 06 00:00:00 EDT 2016
+		Sell Date: Tue Jul 12 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 15 00:00:00 EDT 2016
+
+
+TSM	Taiwan Semiconductor Manufacturing Co.	Thu Jul 21 00:00:00 EDT 2016	0.93	26.26	380	353.4
+		Buy Date: Mon Jul 18 00:00:00 EDT 2016
+		Sell Date: Fri Jul 22 00:00:00 EDT 2016
+		Money in Da Bank: Wed Jul 27 00:00:00 EDT 2016
+
+
+WHLR	Wheeler Real Estate Investment Trust Inc	Sun Jul 31 00:00:00 EDT 2016	0.02	1.56	6410	128.2
+		Buy Date: Thu Jul 28 00:00:00 EDT 2016
+		Sell Date: Mon Aug 01 00:00:00 EDT 2016
+		Money in Da Bank: Thu Aug 04 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 1950.49
+Percentage Profit: 19.5%
+
+
+Strategy #6
+NOK	Nokia	Tue Jul 12 00:00:00 EDT 2016	0.3	5.37	1862	558.6
+		Buy Date: Thu Jul 07 00:00:00 EDT 2016
+		Sell Date: Wed Jul 13 00:00:00 EDT 2016
+		Money in Da Bank: Mon Jul 18 00:00:00 EDT 2016
+
+
+TAX	Liberty Tax Inc	Fri Jul 22 00:00:00 EDT 2016	0.16	13.11	762	121.92
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+VOD	Vodafone Group Plc	Wed Aug 03 00:00:00 EDT 2016	1.13	30.23	330	372.9
+		Buy Date: Fri Jul 29 00:00:00 EDT 2016
+		Sell Date: Thu Aug 04 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 09 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 1053.42
+Percentage Profit: 10.53%
+
+
+Strategy #7
+CYS	"CYS Investments, Inc"	Wed Jul 13 00:00:00 EDT 2016	0.25	8.44	1184	296
+		Buy Date: Fri Jul 08 00:00:00 EDT 2016
+		Sell Date: Thu Jul 14 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 19 00:00:00 EDT 2016
+
+
+NYMT	New York Mortgage Trust Inc	Mon Jul 25 00:00:00 EDT 2016	0.24	6.0	1666	399.84
+		Buy Date: Wed Jul 20 00:00:00 EDT 2016
+		Sell Date: Tue Jul 26 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 29 00:00:00 EDT 2016
+
+
+FORTY	Formula Systems 1985 Ltd	Thu Aug 04 00:00:00 EDT 2016	0.34	31.55	316	107.44
+		Buy Date: Mon Aug 01 00:00:00 EDT 2016
+		Sell Date: Fri Aug 05 00:00:00 EDT 2016
+		Money in Da Bank: Wed Aug 10 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 803.28
+Percentage Profit: 8.03%
+
+
+Strategy #8
+TLKGY	Telkom SA SOC Ltd	Thu Jul 14 00:00:00 EDT 2016	0.73	18.24	548	400.04
+		Buy Date: Mon Jul 11 00:00:00 EDT 2016
+		Sell Date: Fri Jul 15 00:00:00 EDT 2016
+		Money in Da Bank: Wed Jul 20 00:00:00 EDT 2016
+
+
+WMC	Western Asset Mortgage Corp	Tue Jul 26 00:00:00 EDT 2016	0.31	9.33	1071	332.01
+		Buy Date: Thu Jul 21 00:00:00 EDT 2016
+		Sell Date: Wed Jul 27 00:00:00 EDT 2016
+		Money in Da Bank: Mon Aug 01 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 732.05
+Percentage Profit: 7.32%
+
+
+Strategy #9
+ARI	"Apollo Commercial Real Estate Finance, Inc."	Fri Jul 15 00:00:00 EDT 2016	0.46	15.85	630	289.8
+		Buy Date: Tue Jul 12 00:00:00 EDT 2016
+		Sell Date: Mon Jul 18 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 21 00:00:00 EDT 2016
+
+
+EARN	Ellington Residential Mortgage REIT	Wed Jul 27 00:00:00 EDT 2016	0.4	13.06	765	306
+		Buy Date: Fri Jul 22 00:00:00 EDT 2016
+		Sell Date: Thu Jul 28 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 02 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 595.8
+Percentage Profit: 5.96%
+
+
+Strategy #10
+UBMPD	UBM PLC	Mon Jul 18 00:00:00 EDT 2016	0.91	6.15	1626	1479.66
+		Buy Date: Wed Jul 13 00:00:00 EDT 2016
+		Sell Date: Tue Jul 19 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 22 00:00:00 EDT 2016
+
+
+SPIL	Siliconware Precision	Thu Jul 28 00:00:00 EDT 2016	0.58	7.39	1353	784.74
+		Buy Date: Mon Jul 25 00:00:00 EDT 2016
+		Sell Date: Fri Jul 29 00:00:00 EDT 2016
+		Money in Da Bank: Wed Aug 03 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 2264.4
+Percentage Profit: 22.64%
+
+
+Strategy #11
+SUP	Superior Industries International Inc	Tue Jul 19 00:00:00 EDT 2016	0.18	27.09	369	66.42
+		Buy Date: Thu Jul 14 00:00:00 EDT 2016
+		Sell Date: Wed Jul 20 00:00:00 EDT 2016
+		Money in Da Bank: Mon Jul 25 00:00:00 EDT 2016
+
+
+AI	Arlington Asset Investment Corp	Fri Jul 29 00:00:00 EDT 2016	0.63	12.74	784	493.92
+		Buy Date: Tue Jul 26 00:00:00 EDT 2016
+		Sell Date: Mon Aug 01 00:00:00 EDT 2016
+		Money in Da Bank: Thu Aug 04 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 560.34
+Percentage Profit: 5.6%
+
+
+Strategy #12
+ABB	ABB	Wed Jul 20 00:00:00 EDT 2016	0.76	19.31	517	392.92
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+WHLR	Wheeler Real Estate Investment Trust Inc	Sun Jul 31 00:00:00 EDT 2016	0.02	1.56	6410	128.2
+		Buy Date: Thu Jul 28 00:00:00 EDT 2016
+		Sell Date: Mon Aug 01 00:00:00 EDT 2016
+		Money in Da Bank: Thu Aug 04 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 521.12
+Percentage Profit: 5.21%
+
+
+Strategy #13
+TSM	Taiwan Semiconductor Manufacturing Co.	Thu Jul 21 00:00:00 EDT 2016	0.93	26.26	380	353.4
+		Buy Date: Mon Jul 18 00:00:00 EDT 2016
+		Sell Date: Fri Jul 22 00:00:00 EDT 2016
+		Money in Da Bank: Wed Jul 27 00:00:00 EDT 2016
+
+
+WHLR	Wheeler Real Estate Investment Trust Inc	Sun Jul 31 00:00:00 EDT 2016	0.02	1.56	6410	128.2
+		Buy Date: Thu Jul 28 00:00:00 EDT 2016
+		Sell Date: Mon Aug 01 00:00:00 EDT 2016
+		Money in Da Bank: Thu Aug 04 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 481.6
+Percentage Profit: 4.82%
+
+
+Strategy #14
+TAX	Liberty Tax Inc	Fri Jul 22 00:00:00 EDT 2016	0.16	13.11	762	121.92
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+VOD	Vodafone Group Plc	Wed Aug 03 00:00:00 EDT 2016	1.13	30.23	330	372.9
+		Buy Date: Fri Jul 29 00:00:00 EDT 2016
+		Sell Date: Thu Aug 04 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 09 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 494.82
+Percentage Profit: 4.95%
+
+
+Strategy #15
+NYMT	New York Mortgage Trust Inc	Mon Jul 25 00:00:00 EDT 2016	0.24	6.0	1666	399.84
+		Buy Date: Wed Jul 20 00:00:00 EDT 2016
+		Sell Date: Tue Jul 26 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 29 00:00:00 EDT 2016
+
+
+FORTY	Formula Systems 1985 Ltd	Thu Aug 04 00:00:00 EDT 2016	0.34	31.55	316	107.44
+		Buy Date: Mon Aug 01 00:00:00 EDT 2016
+		Sell Date: Fri Aug 05 00:00:00 EDT 2016
+		Money in Da Bank: Wed Aug 10 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 507.28
+Percentage Profit: 5.07%
+
+
+Strategy #16
+WMC	Western Asset Mortgage Corp	Tue Jul 26 00:00:00 EDT 2016	0.31	9.33	1071	332.01
+		Buy Date: Thu Jul 21 00:00:00 EDT 2016
+		Sell Date: Wed Jul 27 00:00:00 EDT 2016
+		Money in Da Bank: Mon Aug 01 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 332.01
+Percentage Profit: 3.32%
+
+
+Strategy #17
+EARN	Ellington Residential Mortgage REIT	Wed Jul 27 00:00:00 EDT 2016	0.4	13.06	765	306
+		Buy Date: Fri Jul 22 00:00:00 EDT 2016
+		Sell Date: Thu Jul 28 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 02 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 306
+Percentage Profit: 3.06%
+
+
+Strategy #18
+SPIL	Siliconware Precision	Thu Jul 28 00:00:00 EDT 2016	0.58	7.39	1353	784.74
+		Buy Date: Mon Jul 25 00:00:00 EDT 2016
+		Sell Date: Fri Jul 29 00:00:00 EDT 2016
+		Money in Da Bank: Wed Aug 03 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 784.74
+Percentage Profit: 7.85%
+
+
+Strategy #19
+AI	Arlington Asset Investment Corp	Fri Jul 29 00:00:00 EDT 2016	0.63	12.74	784	493.92
+		Buy Date: Tue Jul 26 00:00:00 EDT 2016
+		Sell Date: Mon Aug 01 00:00:00 EDT 2016
+		Money in Da Bank: Thu Aug 04 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 493.92
+Percentage Profit: 4.94%
+
+
+Strategy #20
+WHLR	Wheeler Real Estate Investment Trust Inc	Sun Jul 31 00:00:00 EDT 2016	0.02	1.56	6410	128.2
+		Buy Date: Thu Jul 28 00:00:00 EDT 2016
+		Sell Date: Mon Aug 01 00:00:00 EDT 2016
+		Money in Da Bank: Thu Aug 04 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 128.2
+Percentage Profit: 1.28%
+
+
+Strategy #21
+WDR	Waddell & Reed Financial Inc.	Mon Aug 01 00:00:00 EDT 2016	0.46	16.51	605	278.3
+		Buy Date: Wed Jul 27 00:00:00 EDT 2016
+		Sell Date: Tue Aug 02 00:00:00 EDT 2016
+		Money in Da Bank: Fri Aug 05 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 278.3
+Percentage Profit: 2.78%
+
+
+Strategy #22
+POT	Potash Corporation of Saskatchewan Inc.	Tue Aug 02 00:00:00 EDT 2016	0.25	16.2	617	154.25
+		Buy Date: Thu Jul 28 00:00:00 EDT 2016
+		Sell Date: Wed Aug 03 00:00:00 EDT 2016
+		Money in Da Bank: Mon Aug 08 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 154.25
+Percentage Profit: 1.54%
+
+
+Strategy #23
+VOD	Vodafone Group Plc	Wed Aug 03 00:00:00 EDT 2016	1.13	30.23	330	372.9
+		Buy Date: Fri Jul 29 00:00:00 EDT 2016
+		Sell Date: Thu Aug 04 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 09 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 372.9
+Percentage Profit: 3.73%
+
+
+Strategy #24
+FORTY	Formula Systems 1985 Ltd	Thu Aug 04 00:00:00 EDT 2016	0.34	31.55	316	107.44
+		Buy Date: Mon Aug 01 00:00:00 EDT 2016
+		Sell Date: Fri Aug 05 00:00:00 EDT 2016
+		Money in Da Bank: Wed Aug 10 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 107.44
+Percentage Profit: 1.07%
+
+
+Suggested Investment Strategy: #2
+Maximum Possible Percentage Profit: 26.26%

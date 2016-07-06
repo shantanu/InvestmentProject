@@ -1,0 +1,359 @@
+Investing 10k in each:
+	Number of Stocks: 19
+	Total Investment Needed: 190000.0
+	Total Dividend Earned: 7288.65
+	Percentage Profit: 3.84
+
+
+
+
+Strategy #1
+TSM	Taiwan Semiconductor Manufacturing Co.	Mon Jun 27 00:00:00 EDT 2016	0.93	24.9	401	372.93
+		Buy Date: Wed Jun 22 00:00:00 EDT 2016
+		Sell Date: Tue Jun 28 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 01 00:00:00 EDT 2016
+
+
+WDR	Waddell & Reed Financial Inc.	Thu Jul 07 00:00:00 EDT 2016	0.46	16.35	611	281.06
+		Buy Date: Mon Jul 04 00:00:00 EDT 2016
+		Sell Date: Fri Jul 08 00:00:00 EDT 2016
+		Money in Da Bank: Wed Jul 13 00:00:00 EDT 2016
+
+
+WSM	"Williams-Sonoma, Inc."	Wed Jul 20 00:00:00 EDT 2016	0.37	49.56	201	74.37
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 728.36
+Percentage Profit: 7.28%
+
+
+Strategy #2
+ZAIS	ZAIS Group Holdings Inc	Tue Jun 28 00:00:00 EDT 2016	0.4	2.87	3484	1393.6
+		Buy Date: Thu Jun 23 00:00:00 EDT 2016
+		Sell Date: Wed Jun 29 00:00:00 EDT 2016
+		Money in Da Bank: Mon Jul 04 00:00:00 EDT 2016
+
+
+ABB	ABB	Fri Jul 08 00:00:00 EDT 2016	0.76	19.29	518	393.68
+		Buy Date: Tue Jul 05 00:00:00 EDT 2016
+		Sell Date: Mon Jul 11 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 14 00:00:00 EDT 2016
+
+
+WSM	"Williams-Sonoma, Inc."	Wed Jul 20 00:00:00 EDT 2016	0.37	49.56	201	74.37
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 1861.65
+Percentage Profit: 18.62%
+
+
+Strategy #3
+UBMPY	UBM PLC	Wed Jun 29 00:00:00 EDT 2016	0.81	6.96	1436	1163.16
+		Buy Date: Fri Jun 24 00:00:00 EDT 2016
+		Sell Date: Thu Jun 30 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 05 00:00:00 EDT 2016
+
+
+WGO	Winnebago Industries Inc	Mon Jul 11 00:00:00 EDT 2016	0.1	21.87	457	45.7
+		Buy Date: Wed Jul 06 00:00:00 EDT 2016
+		Sell Date: Tue Jul 12 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 15 00:00:00 EDT 2016
+
+
+RY	Royal Bank of Canada	Fri Jul 22 00:00:00 EDT 2016	0.81	57.5	173	140.13
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 1348.99
+Percentage Profit: 13.49%
+
+
+Strategy #4
+WMC	Western Asset Mortgage Corp	Thu Jun 30 00:00:00 EDT 2016	0.31	9.43	1060	328.6
+		Buy Date: Mon Jun 27 00:00:00 EDT 2016
+		Sell Date: Fri Jul 01 00:00:00 EDT 2016
+		Money in Da Bank: Wed Jul 06 00:00:00 EDT 2016
+
+
+UMC	United Microelectronics Corp.	Tue Jul 12 00:00:00 EDT 2016	0.09	1.96	5102	459.18
+		Buy Date: Thu Jul 07 00:00:00 EDT 2016
+		Sell Date: Wed Jul 13 00:00:00 EDT 2016
+		Money in Da Bank: Mon Jul 18 00:00:00 EDT 2016
+
+
+RY	Royal Bank of Canada	Fri Jul 22 00:00:00 EDT 2016	0.81	57.5	173	140.13
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 927.91
+Percentage Profit: 9.28%
+
+
+Strategy #5
+DIPGY	Datang International Power Generation Co Ltd	Fri Jul 01 00:00:00 EDT 2016	0.52	5.54	1805	938.6
+		Buy Date: Tue Jun 28 00:00:00 EDT 2016
+		Sell Date: Mon Jul 04 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 07 00:00:00 EDT 2016
+
+
+MN	"Manning & Napier, Inc."	Wed Jul 13 00:00:00 EDT 2016	0.16	9.6	1041	166.56
+		Buy Date: Fri Jul 08 00:00:00 EDT 2016
+		Sell Date: Thu Jul 14 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 19 00:00:00 EDT 2016
+
+
+CLX	Clorox Co.	Mon Jul 25 00:00:00 EDT 2016	0.8	137.03	72	57.6
+		Buy Date: Wed Jul 20 00:00:00 EDT 2016
+		Sell Date: Tue Jul 26 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 29 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 1162.76
+Percentage Profit: 11.63%
+
+
+Strategy #6
+KCAP	KCAP Financial Inc	Tue Jul 05 00:00:00 EDT 2016	0.15	3.64	2747	412.05
+		Buy Date: Thu Jun 30 00:00:00 EDT 2016
+		Sell Date: Wed Jul 06 00:00:00 EDT 2016
+		Money in Da Bank: Mon Jul 11 00:00:00 EDT 2016
+
+
+VTKLY	VTech Holdings Ltd	Fri Jul 15 00:00:00 EDT 2016	0.25	10.2	980	245
+		Buy Date: Tue Jul 12 00:00:00 EDT 2016
+		Sell Date: Mon Jul 18 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 21 00:00:00 EDT 2016
+
+
+BMO	Bank of Montreal	Wed Jul 27 00:00:00 EDT 2016	0.86	61.35	162	139.32
+		Buy Date: Fri Jul 22 00:00:00 EDT 2016
+		Sell Date: Thu Jul 28 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 02 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 796.37
+Percentage Profit: 7.96%
+
+
+Strategy #7
+RAS	RAIT Financial Trust	Wed Jul 06 00:00:00 EDT 2016	0.09	2.95	3389	305.01
+		Buy Date: Fri Jul 01 00:00:00 EDT 2016
+		Sell Date: Thu Jul 07 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 12 00:00:00 EDT 2016
+
+
+CAT	Caterpillar Inc	Mon Jul 18 00:00:00 EDT 2016	0.77	71.38	140	107.8
+		Buy Date: Wed Jul 13 00:00:00 EDT 2016
+		Sell Date: Tue Jul 19 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 22 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 412.81
+Percentage Profit: 4.13%
+
+
+Strategy #8
+WDR	Waddell & Reed Financial Inc.	Thu Jul 07 00:00:00 EDT 2016	0.46	16.35	611	281.06
+		Buy Date: Mon Jul 04 00:00:00 EDT 2016
+		Sell Date: Fri Jul 08 00:00:00 EDT 2016
+		Money in Da Bank: Wed Jul 13 00:00:00 EDT 2016
+
+
+WSM	"Williams-Sonoma, Inc."	Wed Jul 20 00:00:00 EDT 2016	0.37	49.56	201	74.37
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 355.43
+Percentage Profit: 3.55%
+
+
+Strategy #9
+ABB	ABB	Fri Jul 08 00:00:00 EDT 2016	0.76	19.29	518	393.68
+		Buy Date: Tue Jul 05 00:00:00 EDT 2016
+		Sell Date: Mon Jul 11 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 14 00:00:00 EDT 2016
+
+
+WSM	"Williams-Sonoma, Inc."	Wed Jul 20 00:00:00 EDT 2016	0.37	49.56	201	74.37
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 468.05
+Percentage Profit: 4.68%
+
+
+Strategy #10
+WGO	Winnebago Industries Inc	Mon Jul 11 00:00:00 EDT 2016	0.1	21.87	457	45.7
+		Buy Date: Wed Jul 06 00:00:00 EDT 2016
+		Sell Date: Tue Jul 12 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 15 00:00:00 EDT 2016
+
+
+RY	Royal Bank of Canada	Fri Jul 22 00:00:00 EDT 2016	0.81	57.5	173	140.13
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 185.83
+Percentage Profit: 1.86%
+
+
+Strategy #11
+UMC	United Microelectronics Corp.	Tue Jul 12 00:00:00 EDT 2016	0.09	1.96	5102	459.18
+		Buy Date: Thu Jul 07 00:00:00 EDT 2016
+		Sell Date: Wed Jul 13 00:00:00 EDT 2016
+		Money in Da Bank: Mon Jul 18 00:00:00 EDT 2016
+
+
+RY	Royal Bank of Canada	Fri Jul 22 00:00:00 EDT 2016	0.81	57.5	173	140.13
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 599.31
+Percentage Profit: 5.99%
+
+
+Strategy #12
+MN	"Manning & Napier, Inc."	Wed Jul 13 00:00:00 EDT 2016	0.16	9.6	1041	166.56
+		Buy Date: Fri Jul 08 00:00:00 EDT 2016
+		Sell Date: Thu Jul 14 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 19 00:00:00 EDT 2016
+
+
+CLX	Clorox Co.	Mon Jul 25 00:00:00 EDT 2016	0.8	137.03	72	57.6
+		Buy Date: Wed Jul 20 00:00:00 EDT 2016
+		Sell Date: Tue Jul 26 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 29 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 224.16
+Percentage Profit: 2.24%
+
+
+Strategy #13
+CMTL	Comtech Telecommunications Corp	Thu Jul 14 00:00:00 EDT 2016	0.3	11.34	881	264.3
+		Buy Date: Mon Jul 11 00:00:00 EDT 2016
+		Sell Date: Fri Jul 15 00:00:00 EDT 2016
+		Money in Da Bank: Wed Jul 20 00:00:00 EDT 2016
+
+
+BMO	Bank of Montreal	Wed Jul 27 00:00:00 EDT 2016	0.86	61.35	162	139.32
+		Buy Date: Fri Jul 22 00:00:00 EDT 2016
+		Sell Date: Thu Jul 28 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 02 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 403.62
+Percentage Profit: 4.04%
+
+
+Strategy #14
+VTKLY	VTech Holdings Ltd	Fri Jul 15 00:00:00 EDT 2016	0.25	10.2	980	245
+		Buy Date: Tue Jul 12 00:00:00 EDT 2016
+		Sell Date: Mon Jul 18 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 21 00:00:00 EDT 2016
+
+
+BMO	Bank of Montreal	Wed Jul 27 00:00:00 EDT 2016	0.86	61.35	162	139.32
+		Buy Date: Fri Jul 22 00:00:00 EDT 2016
+		Sell Date: Thu Jul 28 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 02 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 384.32
+Percentage Profit: 3.84%
+
+
+Strategy #15
+CAT	Caterpillar Inc	Mon Jul 18 00:00:00 EDT 2016	0.77	71.38	140	107.8
+		Buy Date: Wed Jul 13 00:00:00 EDT 2016
+		Sell Date: Tue Jul 19 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 22 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 107.8
+Percentage Profit: 1.08%
+
+
+Strategy #16
+WSM	"Williams-Sonoma, Inc."	Wed Jul 20 00:00:00 EDT 2016	0.37	49.56	201	74.37
+		Buy Date: Fri Jul 15 00:00:00 EDT 2016
+		Sell Date: Thu Jul 21 00:00:00 EDT 2016
+		Money in Da Bank: Tue Jul 26 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 74.37
+Percentage Profit: 0.74%
+
+
+Strategy #17
+RY	Royal Bank of Canada	Fri Jul 22 00:00:00 EDT 2016	0.81	57.5	173	140.13
+		Buy Date: Tue Jul 19 00:00:00 EDT 2016
+		Sell Date: Mon Jul 25 00:00:00 EDT 2016
+		Money in Da Bank: Thu Jul 28 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 140.13
+Percentage Profit: 1.4%
+
+
+Strategy #18
+CLX	Clorox Co.	Mon Jul 25 00:00:00 EDT 2016	0.8	137.03	72	57.6
+		Buy Date: Wed Jul 20 00:00:00 EDT 2016
+		Sell Date: Tue Jul 26 00:00:00 EDT 2016
+		Money in Da Bank: Fri Jul 29 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 57.6
+Percentage Profit: 0.58%
+
+
+Strategy #19
+BMO	Bank of Montreal	Wed Jul 27 00:00:00 EDT 2016	0.86	61.35	162	139.32
+		Buy Date: Fri Jul 22 00:00:00 EDT 2016
+		Sell Date: Thu Jul 28 00:00:00 EDT 2016
+		Money in Da Bank: Tue Aug 02 00:00:00 EDT 2016
+
+
+Total Investment: $10,000
+Total Dividend Earned: 139.32
+Percentage Profit: 1.39%
+
+
+Suggested Investment Strategy: #2
+Maximum Possible Percentage Profit: 18.62%
